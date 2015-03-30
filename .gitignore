@@ -1,0 +1,10 @@
+*.opensdf
+*.sdf
+/Saved
+*.pch
+*.obj
+/DerivedDataCache
+/Intermediate
+*.dll
+*.sln
+/Binaries
